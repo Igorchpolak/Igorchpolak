@@ -2,12 +2,12 @@
 
 A software engineering student living in Poland.
 
-## 🎯 Interests & Current Projects
+## 🎯 Interests & Projects
 
 - **🔒 Cybersecurity** - specifically social engineering and OSINT techniques
 - **🛠️ 3D Printing & Engineering** - currently building my own 3-in-1 CNC machine
 - **📱 Android App Development** - created a slot machine app and multi-activity camera application
-- **🌐 Web Development** - built a backlink service using Astro.js with headless WordPress, open to other backend technologies 😄
+- **🌐 Web Development** - Experience with Astro.js and headless WordPress (backlink service project), open to other backend technologies 😄
 
 ## 💻 Tech Stack
 
